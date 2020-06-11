@@ -1,0 +1,47 @@
+/************************Tag Selector********************/
+body{
+  background-color: #e0fcff ;
+  font-family: Comic Sans MS;
+  font-size: 25px;
+}
+h1,h4{
+  color: #7098da;
+}
+h3{
+  color: #6eb6ff;
+}
+h2{
+  color: #e61c5d;
+}
+
+/************************Class Selector********************/
+.Nav {
+margin: 0;
+padding: 0;
+list-style: none;
+height: 45px;
+line-height: 45px;
+background-color: #000;
+font-family: arial;
+font-size: 19px;
+
+
+}
+.ii{
+float: left;
+border-left: 3px solid #156ee2;
+
+}
+.vaval{
+display: block;
+padding-top: 0px;
+padding-bottom: 0px;
+padding-left: 35px;
+padding-right: 35px;
+color: #fff;
+text-decoration: none;
+
+}
+a:hover, .active a{
+background-color: #156ee2;
+}
